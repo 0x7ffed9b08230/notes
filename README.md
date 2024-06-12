@@ -4,6 +4,13 @@ Welcome to my Obsidian Notes repository! This is a collection of my personal not
 
 ## Table of Contents
 
+- [Introduction](#Introduction)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Folder Structure](#Folder%20Structure)
+- [License](#License)
+- [My Plugins and Themes](#My%20Plugins%20and%20Themes)
+
 ### Introduction
 
 This repository contains my personal notes, thoughts, and research organized in a way that is easy to navigate and extend. I use Obsidian to manage and visualize my notes, which allows for easy linking between topics and ideas.
@@ -47,3 +54,15 @@ Feel free to organize the folders and notes in a way that best suits your workfl
 ### License
 
 This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
+
+### My Plugins and Themes
+
+#### Themes
+
+[Typewriter](https://github.com/crashmoney/obsidian-typewriter)
+
+#### Plugins
+
+[Quick Latex Obsidian](https://github.com/joeyuping/quick_latex_obsidian)
+[Obsidian Git](https://github.com/denolehov/obsidian-git)
+[Highlightr](https://github.com/chetachiezikeuzor)
