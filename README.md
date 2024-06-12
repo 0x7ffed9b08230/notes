@@ -7,9 +7,9 @@ Welcome to my Obsidian Notes repository! This is a collection of my personal not
 - [Introduction](#Introduction)
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Folder Structure](#Folder%20Structure)
+- [Folder Structure](#Folder-Structure)
 - [License](#License)
-- [My Plugins and Themes](#My%20Plugins%20and%20Themes)
+- [My Plugins and Themes](#My-Plugins-and-Themes)
 
 ### Introduction
 
